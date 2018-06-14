@@ -24,19 +24,16 @@ Various resources around Neural Networks and Machine Learning in general, showin
 
 I had a go at a few specific topics, which was both productive but also difficult to maintain, as it seemed that all my energy could easily be engulfed in the amount of technique (mathematical or otherwise) that is required to reach that level.
 
-RMSProp \| Deeplearning.ai 
+<div class="video-container">
+<iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/_e-LFe_igno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-[![RMSProp](http://img.youtube.com/vi/_e-LFe_igno/0.jpg)](http://www.youtube.com/watch?v=\_e-LFe\_igno)
+<div class="video-container">
+<iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/JXQT_vxqwIs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-*
+<div class="video-container">
+<iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/LLux1SW--oM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-Adam Optimization Algorithm \| Deeplearning.ai 
-
-[![Adam Optimization Algorithm](http://img.youtube.com/vi/JXQT_vxqwIs/0.jpg)](http://www.youtube.com/watch?v=JXQT_vxqwIs)
-
-*
-
-Softmax Regression \| Deeplearning.ai 
-
-[![Softmax Regression](http://img.youtube.com/vi/LLux1SW--oM/0.jpg)](http://www.youtube.com/watch?v=LLux1SW--oM)
 

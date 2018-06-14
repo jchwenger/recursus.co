@@ -11,7 +11,7 @@
 }
 
 .site-title {
-  @include relative-font-size(1.625);
+  @include relative-font-size(2.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -216,7 +216,7 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(1.625);
   letter-spacing: -1px;
   line-height: 1;
 
@@ -266,6 +266,8 @@
 .video-container object,
 .video-container embed {
   position: absolute;
+  padding-top: 20px;
+  padding-bottom: 20px;
   top: 0;
   left: 0;
   width: 100%;

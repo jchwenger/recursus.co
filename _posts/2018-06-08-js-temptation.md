@@ -9,24 +9,22 @@ A clear temptation for the future: learn JavaScript properly and work with the b
 2. Move toward a routine based on small incremental projects;
 3. A nice way of practicing my NLP tools (alongside [NLTK in Python](http://www.nltk.org/)).
 
-*
 
 What is more, the unstoppable Dan Shiffmann dedicated the past few years to JavaScript for creative coding, leading to a flurry of tutorials and resources, e.g. this one on RiTa:
 
-
-__The RiTa.js Library - Programming with Text \| The Coding Train__ 
-
-[![The RiTa.js Library - Programming with Text](http://img.youtube.com/vi/lIPEvh8HbGQ/0.jpg)](http://www.youtube.com/watch?v=lIPEvh8HbGQ)
+<div class="video-container">
+<iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/lIPEvh8HbGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<p>&nbsp;</p>
 
 I should add that Shifman is at this very moment developing a series of tutorials introducing TensorFlow.js, anticipating 
 the irruption of ever easier machine learning libraries for creative purposes:
 
-__Introduction to TensorFlow.js - Intelligence and Learning \| The Coding Train__ 
+<div class="video-container">
+<iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-[![Introduction to TensorFlow.js - Intelligence and Learning](http://img.youtube.com/vi/Qt3ZABW5lD0/0.jpg)](https://www.youtube.com/watch?v=Qt3ZABW5lD0&list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
-
-
-*
+<p>&nbsp;</p>
 
 #### Methodology / Tetralogy
 
