@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Thoughts and meanders for my final project in the [MA of Computational Arts] (https://www.gold.ac.uk/pg/ma-computational-arts/) at Goldsmiths College, London. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Proudly produced using [Jekyll](https://jekyllrb.com/), written in [Vim](https://www.vim.org/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Jérémie Wenger, 1983 in Lausanne, Switzerland. Mostly text.
