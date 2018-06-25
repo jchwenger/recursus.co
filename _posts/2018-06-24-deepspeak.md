@@ -21,3 +21,6 @@ My knowledge of networks is still incipient. I would need to learn more, a _lot_
 Two interesting articles, that should lead to further research:
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah;
 - [Attention and Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) by Christopher Olah and Shan Carter.
+
+As well as [a talk summarizing the contents](https://skillsmatter.com/skillscasts/6611-visualizing-and-understanding-recurrent-networks) of the already mentioned [Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
+
