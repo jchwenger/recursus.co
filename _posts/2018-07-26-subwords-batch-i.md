@@ -51,3 +51,7 @@ Images representation of some subwords found so far.
 ![wording worn_dig]({{ "/assets/subwords/wording_worn_dig.png" | absolute_url }})
 &nbsp;  
 ![worldly old_wry]({{ "/assets/subwords/worldly_old_wry.png" | absolute_url }})
+
+---
+
+The beautiful technicality of it is that after having worked hard to build the recursive function that builds these (from given word lists), I had to come up with a 'mirror' recursive function that, given a set of words (superword and its subwords), reconstructs the various possibilities for the above display, namely: various possibilities in letter placement, if possible, and, on top of that, a way of browsing through the various word order I want (which word is on top, in the middle, etc.).
