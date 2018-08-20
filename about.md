@@ -8,4 +8,4 @@ Thoughts and meanders for my final project, *Recursus*, in the <a href="https://
 
 Proudly produced using [Jekyll](https://jekyllrb.com/), written in [Vim](https://www.vim.org/).
 
-[Jérémie Wenger](jeremiewenger.com), born 1983 in Lausanne, Switzerland. Mostly text.
+[Jérémie Wenger](http://jeremiewenger.com), born 1983 in Lausanne, Switzerland. Mostly text.
