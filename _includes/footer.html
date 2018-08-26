@@ -15,7 +15,12 @@
             </li>
             {% if site.email %}
             <li>
-            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            {{ site.email }}
+            </li>
+            {% endif %}
+            {% if site.website %}
+            <li>
+            <a href="http://{{ site.website }}">{{ site.website }}</a>
             </li>
             {% endif %}
         </ul>
