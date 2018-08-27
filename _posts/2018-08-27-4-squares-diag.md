@@ -4,7 +4,7 @@ title: Diagful 4-Squares
 permalink: /4-squares-diag/ 
 ---
 
-A batch of 4-squares, composed with the words from [litscape](https://www.litscape.com/). Including diagonals. Together with a snarky ending.
+A batch of 4-squares, composed with words from [litscape](https://www.litscape.com/). Including diagonals. Together with a snarky ending.
 
 
 ![bard area liar damn ]({{ "/assets/squares/4/bard_area_liar_damn_2018_8_27.png" | absolute_url }})

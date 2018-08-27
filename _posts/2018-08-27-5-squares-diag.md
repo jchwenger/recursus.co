@@ -4,7 +4,7 @@ title: Diagful 5-Squares
 permalink: /5-squares-diag/ 
 ---
 
-A batch of 5-squares, composed with the words from [litscape](https://www.litscape.com/). Including diagonals.
+A batch of 5-squares, composed with words from [litscape](https://www.litscape.com/). Including diagonals.
 
 
 ![calls alien reave erned stars ]({{ "/assets/squares/5/calls_alien_reave_erned_stars_2018_8_27.png" | absolute_url }})
