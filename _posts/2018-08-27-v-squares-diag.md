@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Diagful 5-Squares 
+title: Diagful V-Squares 
 date: 2018-08-27 18:36:47
-permalink: /5-squares-diag/ 
+permalink: /v-squares-diag/ 
 ---
 
-A batch of 5-squares, composed with words from [litscape](https://www.litscape.com/). Including diagonals.
+A batch of V-squares, composed with words from [litscape](https://www.litscape.com/). Including diagonals.
 
 
 ![calls alien reave erned stars ]({{ "/assets/squares/5/calls_alien_reave_erned_stars_2018_8_27.png" | absolute_url }})

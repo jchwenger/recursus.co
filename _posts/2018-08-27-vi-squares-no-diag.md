@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Diagless 6-Squares
+title: Diagless VI-Squares
 date: 2018-08-27 17:31:47
-permalink: /6-squares-no-diag/ 
+permalink: /vi-squares-no-diag/ 
 ---
 
-A batch of 6-squares, composed with the 20k most frequent words in Google. No diagonals.
+A batch of VI-squares, composed with the 20k most frequent words in Google. No diagonals.
 
 ![assess scenic sender endure sierra scream ]({{ "/assets/squares/ggl-20/6/assess_scenic_sender_endure_sierra_scream_2018_8_21.png" | absolute_url }})
 ![bricks regret ignore crowne kernel steele ]({{ "/assets/squares/ggl-20/6/bricks_regret_ignore_crowne_kernel_steele_2018_8_27.png" | absolute_url }})

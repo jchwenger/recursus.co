@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Diagless 5-Squares
+title: Diagless V-Squares
 date: 2018-08-27 17:30:47
-permalink: /5-squares-no-diag/ 
+permalink: /v-squares-no-diag/ 
 ---
 
-A batch of 5-squares, composed with the 20k most frequent words in Google. No diagonals.
+A batch of V-squares, composed with the 20k most frequent words in Google. No diagonals.
 
 
 ![atlas whore aroma reset deeds ]({{ "/assets/squares/ggl-20/5/atlas_whore_aroma_reset_deeds_2018_8_27.png" | absolute_url }})

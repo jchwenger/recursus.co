@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Diagful 4-Squares 
+title: Diagful IV-Squares 
 date: 2018-08-27 18:20:47
-permalink: /4-squares-diag/ 
+permalink: /iv-squares-diag/ 
 ---
 
-A batch of 4-squares, composed with words from [litscape](https://www.litscape.com/). Including diagonals. Together with a snarky ending.
+A batch of IV-squares, composed with words from [litscape](https://www.litscape.com/). Including diagonals. Together with a snarky ending.
 
 
 ![bard area liar damn ]({{ "/assets/squares/4/bard_area_liar_damn_2018_8_27.png" | absolute_url }})

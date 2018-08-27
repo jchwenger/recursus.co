@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Squares Pop-up 2
+title: Squares Pop-up II
 date: 2018-08-27 17:10:47
-permalink: /squares-pop-up-2/ 
+permalink: /squares-pop-up-ii/ 
 ---
 
 More 3-squares generated for the pop-up exhibition in May, but not exhibited.
