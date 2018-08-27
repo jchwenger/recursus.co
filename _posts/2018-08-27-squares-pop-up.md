@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Squares Pop-up
+date: 2018-08-27 17:00:47
 permalink: /squares-pop-up/ 
 ---
 

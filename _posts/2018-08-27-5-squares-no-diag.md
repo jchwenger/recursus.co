@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Diagless 5-Squares
+date: 2018-08-27 17:30:47
 permalink: /5-squares-no-diag/ 
 ---
 

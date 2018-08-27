@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Diagful 4-Squares 
+date: 2018-08-27 18:20:47
 permalink: /4-squares-diag/ 
 ---
 

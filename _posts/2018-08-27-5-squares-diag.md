@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Diagful 5-Squares 
+date: 2018-08-27 18:36:47
 permalink: /5-squares-diag/ 
 ---
 
