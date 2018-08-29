@@ -12,5 +12,13 @@ So far I looked into Google Colaboratory, Google Cloud Computing, and Amazon AWS
 
 As often happens, I stumble across splinters of the future more easily than simple, helpful insights for the preset. Thus, I know now what is likely the next step after [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit), themselves already the major facilitator technology for the whole deep learning frenzy: [TPUs](https://cloud.google.com/tpu/), otherwise known as 'Tensor Processing Unit', developed by Google and, surprise, optimised for TensorFlow. I saw that it was possible to rent them, or even cluster of those, on the Google Cloud Platform. Of use if I ever want to take neural text generation to the next level. For squares as well, that is, for (textual) database generation. 
 
+<div class="video-container">
+<iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/zEOtG-ChmZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+&nbsp;
+
+---   
+&nbsp;
+
 But most of all, for sanity. Having one's laptop hotly crunching next to one day and night all too often induces a [Fuselian](https://en.wikipedia.org/wiki/Henry_Fuseli) feel of horror.
 ![Fuseli Nightmare]({{ "/assets/fuseli-nightmare-41-4-bqscan.png" | absolute_url }})
