@@ -8,4 +8,10 @@ permalink: /ait/the-fucking-half-ugly-thing/
 
 ![The fucking half ugly thing ]({{ "/assets/AIT/horiz/The_fucking_half_ugly_thing_2018_8_26.png" | absolute_url }})
 
+---
+
+&nbsp;
+&nbsp;
+
+
 First batch from [AIT](https://github.com/jchwenger/AIT).

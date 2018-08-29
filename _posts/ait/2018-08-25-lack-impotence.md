@@ -10,6 +10,11 @@ Lack impotence my entire life in the end no surprise if I don’t do a thing. No
 
 So annoying. The wall. The shitty sweet stuff. And the absence thereof. That's a result of your arse your arse all failed failed problems and feelings through and through the same strands. All the time. I am here. I hate it. I know it. I hate it. I don’t. That’s the thing. I can’t any more. I say that I’m thinking of a world I could even be in. I guess it’s not about not reading enough the words the words no need to look to the classical ones just start without a form in the mind. A street among the most international in the end you think about it. That could be it. But of course it could also not be. Or not much. No. Anyway. Not much else. The fingers are still there. There and then. The fingers with the trace. The threshold. The other thing which is the second one. The past. One more form of the standards.
 
-** 
+
+---
+
+&nbsp;
+&nbsp;
+
 
 First batch from [AIT](https://github.com/jchwenger/AIT).

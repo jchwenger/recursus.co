@@ -8,4 +8,10 @@ permalink: /ait/tension/
 
 ![The tension is too big ]({{ "/assets/AIT/horiz/The_tension_is_too_big_2018_8_26.png" | absolute_url }})
 
+---
+
+&nbsp;
+&nbsp;
+
+
 First batch from [AIT](https://github.com/jchwenger/AIT).
