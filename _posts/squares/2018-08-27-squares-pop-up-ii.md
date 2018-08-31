@@ -32,3 +32,8 @@ More 3-squares generated for the pop-up exhibition in May, but not exhibited.
 ![the hue eel ]({{ "/assets/squares/pop-up-2/the_hue_eel_2018_5_12.png" | absolute_url }})
 ![why rue yet ]({{ "/assets/squares/pop-up-2/why_rue_yet_2018_5_12.png" | absolute_url }})
 ![yes art pay ]({{ "/assets/squares/pop-up-2/yes_art_pay_2018_5_12.png" | absolute_url }})
+---
+
+&nbsp;
+
+Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 

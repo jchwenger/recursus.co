@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diagful IV-Squares 
+title: Diagful IV-Squares
 date: 2018-08-27 18:20:47
 category: squares
 permalink: /squares/iv-squares-diag/ 

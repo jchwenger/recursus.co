@@ -25,6 +25,7 @@ layout: default
           {{ post.excerpt }} 
         {% endif %}
       </li>
+      <p align="right"><a href="{{ post.url | relative_url }}">More...</a></p>
       {% endfor %}
     </ul>
 

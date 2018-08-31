@@ -17,3 +17,8 @@ The batch of 3-squares presented at a pop-up exhibition in May this year.
 ![his ink sky ]({{ "/assets/squares/pop-up/his_ink_sky_2018_5_7.png" | absolute_url }})
 ![its the sea ]({{ "/assets/squares/pop-up/its_the_sea_2018_5_7.png" | absolute_url }})
 ![its the sex ]({{ "/assets/squares/pop-up/its_the_sex_2018_5_7.png" | absolute_url }})
+---
+
+&nbsp;
+
+Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 

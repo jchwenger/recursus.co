@@ -7,6 +7,7 @@ permalink: /squares/v-squares-no-diag/
 ---
 
 A batch of V-squares, composed with the 20k most frequent words in Google. No diagonals.
+
 ![atlas whore aroma reset deeds ]({{ "/assets/squares/ggl-20/5/atlas_whore_aroma_reset_deeds_2018_8_27.png" | absolute_url }})
 
 ![bacon aroma codes omega nasal ]({{ "/assets/squares/ggl-20/5/bacon_aroma_codes_omega_nasal_2018_8_27.png" | absolute_url }})
