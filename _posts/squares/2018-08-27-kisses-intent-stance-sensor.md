@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kisses intent stance sensor (Squares)
+title: Kisses intent stance sensor
 date: 2018-08-27 17:31:47
 category: squares
 permalink: /squares/kisses-intent-stance-sensor/ 
