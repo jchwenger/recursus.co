@@ -8,6 +8,12 @@ Recursus, Latin: a “return”, a “retreat”, but also “the power to bring
 
 This site contains the thoughts and meanders that arose in the process of elaboration of these pieces, during the Summer term of 2018 of the <a href="https://www.gold.ac.uk/pg/ma-computational-arts/">MA of Computational Arts</a> at Goldsmiths College, London. 
 
+---
+
+My gratitude to all the people who followed and supported me during this year and before, and without whom I wouldn't be who I am today. My parents, first of all, who spoil me far too much! Neil Forsyth and Michael Kunkel, whose recommendation helped me get into the program. My lovely gang of flatmates, the 49ers, including the unforgettable alumni Alaena, Richie and Fabiano. The Irish scoundrels and wandering wordsmiths Alan and Mark. The infamous Oxonians Phil, Anne-Claire and Cecilia. My Crew back in my hometown, and especially Emanuel, the everlasting friend, as well as mathematical Clément, whom I made jealous for the first time. The RIP group of political cogitators, without forgetting Zsófi and Timea, and especially Jake, Brooks & David for their computational advice. The whole pack of [Kammer Klangers](http://www.kammerklang.co.uk/), Serge & Nef, Emily, Dani & Ilze, and all the others. The really cool people I met this year, Julia, Yunny, Guy, Luke, Sam, Becky, James, Jesse, Mat, Freya, Elias, Danny, Megan, Jana, Petros, Sara, Taoran, Friendred, there are too many of you! And, of course, all those I forget, please forgive me.
+
+---
+
 Proudly produced using [Jekyll](https://jekyllrb.com/), written in [Vim](https://www.vim.org/).
 
 [Jérémie Wenger](http://jeremiewenger.com), born 1983 in Lausanne, Switzerland, lives in London. Mostly text.
