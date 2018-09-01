@@ -17,4 +17,5 @@ permalink: /subwords/atheist-monist/
 ---
 
 &nbsp;
+
 Batch IV from Subwords. Words from [litscape](https://www.litscape.com/).

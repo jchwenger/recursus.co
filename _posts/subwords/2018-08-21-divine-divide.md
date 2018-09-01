@@ -18,4 +18,5 @@ permalink: /subwords/divine-divide/
 ---
 
 &nbsp;
+
 Batch IV from Subwords. Words from [litscape](https://www.litscape.com/).
