@@ -16,3 +16,6 @@ permalink: /subwords/obstructionistical/
 &nbsp;
 
 Batch III from Subwords. Words from [litscape](https://www.litscape.com/).
+
+Otitic: otitis n. "Inflammation of the ear." (OED)  
+Scion: n. "A descendant, esp. one belonging to a wealthy or noble family; an heir." (OED)  

@@ -16,3 +16,5 @@ permalink: /subwords/autoradiographically/
 &nbsp;
 
 Batch III from Subwords. Words from [litscape](https://www.litscape.com/).
+
+Autography: n. "The action of writing in one's own hand; a person's handwriting. Now rare." (OED) 

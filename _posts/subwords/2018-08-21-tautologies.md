@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Prefixes
+title: Tautologies
 date: 2018-08-21 10:04:47
 category: subwords
-permalink: /subwords/prefixes/ 
+permalink: /subwords/tautologies/ 
 ---
 
 ![undercautiousness undercautions uses ]({{ "/assets/subwords/batchIII/undercautiousness_undercautions_uses.png" | absolute_url }})

@@ -19,3 +19,6 @@ permalink: /subwords/atheist-monist/
 &nbsp;
 
 Batch IV from Subwords. Words from [litscape](https://www.litscape.com/).
+
+Armageddonist: armageddon n. "In Christian eschatology: the last battle between good and evil before the Day of Judgement, to be fought (according to Revelation 16:16) in the place of this name. Hence: any dramatic, final, or catastrophic conflict, esp. one seen as likely to destroy the world or the human race; (sometimes more loosely) the end of the world." (OED)  
+Monist: monism n. "A theory that denies the duality of matter and mind." (OED)

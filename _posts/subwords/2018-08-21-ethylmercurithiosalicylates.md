@@ -25,3 +25,12 @@ permalink: /subwords/ethylmercurithiosalicylates-mercurial/
 &nbsp;
 
 Batch II from Subwords. Words from [litscape](https://www.litscape.com/).
+
+Ethylmercurithiosalicylates: (organic chemistry) A salt or ester of ethylmercurithiosalicylic acid. (Wiktionary)  
+Mercurial: adj. Astrology. A person born under the influence of the planet Mercury, or having the qualities supposed to result from such a birth; a lively, quick-witted, or volatile person; (occasionally) †a cheat, a thief (obsolete). Also with the and plural concord: such people as a class. Now rare." (OED)  
+Liths: lith n. "Help, remedy. Obsolete." (OED)  
+Hyte: adj. "Crazy; mad." (OED)  
+Tosa: n. " Used attrib. to designate (the products of) a school of painting characterized by the use of traditional themes and techniques, which flourished from the mid fifteenth to the late nineteenth century." or "A black, tan, or brindle mastiff of the breed of this name, originally developed as a type of fighting dog in Japan. Also attrib." (OED)  
+Lithic: adj. "Of or pertaining to stone; consisting of stone. lithic age, the ‘stone age’ of Archæology." (OED)  
+Tost: v. "Corruption of toss v." (OED)  
+Hyla: n. "A tree-frog or tree-toad, as Hyla pickeringi of the United States." (OED)

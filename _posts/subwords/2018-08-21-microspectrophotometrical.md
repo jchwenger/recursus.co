@@ -29,3 +29,9 @@ permalink: /subwords/microspectrophotometrical/
 &nbsp;
 
 Batch II from Subwords. Words from [litscape](https://www.litscape.com/).
+
+Microspectrophotometrical: microspectrophotometer n. "a spectrophotometer adapted to the examination of light transmitted by a very small specimen (such as a single biological cell) : a spectrophotometer adapted to the examination of light transmitted by a very small specimen (such as a single biological cell)" (Webster)  
+Microhm: n. "One millionth part of an ohm = 1 microhm." (OED)  
+Rot: adj. "Rotten; decayed. Obsolete." (OED)  
+Microtomic: microtome n. " Originally: †an instrument for microdissection, resembling tiny shears (obsolete). In later use: any of various instruments used to cut thin sections for microscopy, typically consisting of a sample holder, a fixed blade, and a mechanism for controlling the thickness and angle of cutting." (OED)  
+Rostrally: rostral adj. "Anatomy and Zoology. Designating the end or aspect of the body that contains the nose and mouth; located at or nearer to this end or aspect. Opposed to caudal adj." (OED)  

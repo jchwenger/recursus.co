@@ -16,3 +16,6 @@ permalink: /subwords/selfidentification/
 &nbsp;
 
 Batch III from Subwords. Words from [litscape](https://www.litscape.com/).
+
+Deific: adj. "Deifying, making divine; also (less properly), divine, godlike." (OED)  
+Elfin: "Pertaining to elves; of elfish nature or origin." or "Fairy-like, full of strange charm." (OED)  

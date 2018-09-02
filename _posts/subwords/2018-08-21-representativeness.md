@@ -16,3 +16,5 @@ permalink: /subwords/representativeness/
 &nbsp;
 
 Batch III from Subwords. Words from [litscape](https://www.litscape.com/).
+
+Preens: preen n. "fig. Chiefly Sc. In negative contexts as the type of something small, insignificant, or of little worth." (OED)  
