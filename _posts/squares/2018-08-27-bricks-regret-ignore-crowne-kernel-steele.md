@@ -16,3 +16,4 @@ permalink: /squares/bricks-regret-ignore-crowne-kernel-steele/
 
 Composed with the 20k most frequent words in Google. No diagonals.
 
+Steele: n. "The stalk or stem of a plant, leaf, flower or fruit.", "An upright side of a ladder; in later use, a rung or step of a ladder: = stale n.2 1. Obsolete.", "The handle of a tool or utensil (e.g. a hammer, axe, pot, spoon).". Also older forms of steal and steel. (OED)  

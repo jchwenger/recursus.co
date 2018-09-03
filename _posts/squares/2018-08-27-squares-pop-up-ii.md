@@ -32,8 +32,23 @@ More 3-squares generated for the pop-up exhibition in May, but not exhibited.
 ![the hue eel ]({{ "/assets/squares/pop-up-2/the_hue_eel_2018_5_12.png" | absolute_url }})
 ![why rue yet ]({{ "/assets/squares/pop-up-2/why_rue_yet_2018_5_12.png" | absolute_url }})
 ![yes art pay ]({{ "/assets/squares/pop-up-2/yes_art_pay_2018_5_12.png" | absolute_url }})
+
 ---
 
 &nbsp;
 
 Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 
+
+Ars: Latin for art, also arse.
+Awn: n. "The delicate spinous process, or ‘beard,’ that terminates the grain-sheath of barley, oats, and other grasses; extended in Botany to any similar bristly growth.", v. "trans. To put before a person's eyes; to show, manifest. refl. To manifest oneself, appear. Obsolete", "intr. To hang as or like an awning." "trans. To cover or shelter with an awning. Said also of the awning itself." (OED)  
+Tow: n. "The fibre of flax, hemp, or jute prepared for spinning by some process of scutching.", "A rope. Chiefly Sc.", "spec. A hangman's rope, a halter.", "Orig. an iron chain; later, a large iron link, attached to the heel of the turn-wrest plough, and by which this is drawn. Also called   tow-chain n.", v. "trans. To draw by force; to pull, drag.", "spec. To draw or drag (a vessel, persons in a boat, etc.) on the water by a rope." (OED)  
+Tsk: int. "A sound expressing commiseration; an exclamation of disapproval or irritation." (OED)  
+Ire: n. "Anger; wrath. Now chiefly poet. and rhetorical." (OED)  
+Ick: n. = icky "A person who is ignorant of true swinging jazz and likes the ‘sweet’ kind. U.S.", "Something which is sickly, disagreeable; sickness.", int. "[Probably the same word; compare ugh, yuck, etc.] An expression of distaste or revulsion." (OED)  
+Rue: v. "trans. With impersonal subject and with the person (in early use dative or accusative) as object. To affect with sorrow or regret; to distress, grieve. Frequently with it as subject and clause as complement, and without it and with following clause as implicit subject. Now arch." (OED)  
+Jiz: variant of jizz n. semen. (Online Slang Dictionary)  
+Tot: n. "A person of disordered brain, a simpleton, a fool. Obsolete.", "The total of an addition, sometimes having tot. written against it; hence, an addition sum; also ( tot-up) the action of tot v.2: adding up, totalling. Also gen., the total number or amount." (OED)  
+Err: v. "To go wrong in judgement or opinion: to make mistakes, blunder. Of a formula, statement, etc.: To be incorrect." (OED)  
+Aby: older form of abbey or abye v. "trans. To pay the penalty for (an offence); to atone for, suffer for, make amends for, expiate (a crime, one's sins, another's guilt, etc.)."
+Tut: int. "An ejaculation (often reduplicated) expressing impatience or dissatisfaction with a statement, notion, or proceeding, or contemptuously dismissing it. (The Sc. toot, toots, expresses mild expostulation.)", also "A tit, a teat. Obsolete", "apparently a variant of toute n.   Obsolete, buttocks." (OED)  
+Yap: n. "A dog that yaps; a yelping cur. Now dialect.", "A fool, someone easily taken in; also, an uncultured or unsophisticated person. dialect and U.S. slang.", adj. "Clever, cunning; shrewd, astute; nimble, active", "Eager or ready, esp. to do something. Obsolete.", v. "intr. To bark sharply, as a small dog; to yelp.", To talk idly or loquaciously; to chatter. Also trans., with quoted words as object slang (orig. dialect)." (OED)  

@@ -22,3 +22,7 @@ The batch of 3-squares presented at a pop-up exhibition in May this year.
 &nbsp;
 
 Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 
+
+Irk: n. "Tedium, irksomeness, annoyance.", adj. "Weary, tired; troubled; ‘bored’, disgusted; loath. Const. of (rarely with), or with infinitive. Obsolete", v. "Of a thing: To affect with weariness, dislike, or disgust; to weary, tire; to trouble; to disgust, to ‘bore’.", " impersonal it irks (me), it wearies, annoys, troubles (me); = Latin piget. Const. infinitive or clause; formerly of. arch." (OED)  
+Ilk: adj. pron. n. " the (this, that) ilk: the same, the identical, the very same (person, thing, etc., already mentioned, or specified in a following clause). Frequently in statements of time, e.g. that ilk day, this ilk night, that ilk year, etc.Obsolete (Sc. in later use).", "orig. and chiefly Sc. of that ilk: of the same place, territorial designation, or name (chiefly in names of landed families, as Guthrie of that ilk, Wemyss of that ilk = Guthrie of Guthrie, Wemyss of Wemyss)." (OED)  
+Ire: n. "Anger; wrath. Now chiefly poet. and rhetorical." (OED)  

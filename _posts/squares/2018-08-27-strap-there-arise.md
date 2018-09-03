@@ -17,3 +17,5 @@ permalink: /squares/strap-there-arise/
 &nbsp;
 
 Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 
+
+Reive: older variant of rave, also of reave v. "intr. To commit robbery; to plunder, pillage; to make raids. Now chiefly Sc.", "To rob (a place or district) of goods or valuables by force; to raid. Now rare.", "trans. To tear; to split, cleave. Also intr.", of reeve v. "trans. To sift (winnowed grain, etc.)", of rive v. " To tear apart or in pieces by pulling or tugging; to rend or lacerate. In early use also: †to destroy (obsolete). Now Sc. and Eng. regional (northern).", and of reeve n. "Chiefly in Anglo-Saxon and later medieval England: a supervising official of high rank, esp. one having jurisdiction under a king; spec.". (OED)  

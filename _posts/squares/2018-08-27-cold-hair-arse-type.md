@@ -15,3 +15,6 @@ permalink: /squares/cold-hair-arse-type/
 &nbsp;
 
 Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 
+
+Dree: v. "To endure, undergo, suffer, bear (something burdensome, grievous, or painful).", and also as n. "The action of the verb dree v.; suffering, grief, trouble. (Mostly a modern archaism.)" (OED)  
+

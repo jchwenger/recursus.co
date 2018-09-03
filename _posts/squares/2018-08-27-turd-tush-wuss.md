@@ -26,3 +26,7 @@ permalink: /squares/turd-tush-wuss/
 &nbsp;
 
 Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 
+
+Urea: n. "A soluble crystalline compound, forming an organic constituent of the urine in mammalia, birds, and some reptiles, and also found in the blood, milk, etc.; carbamide, CO(NH2)2." (OED)  
+Salps: variant of salpa n. "A genus of tunicates, the sole representative of the family Salpidæ; also, a tunicate of this genus." (tunicate n. "One of a class of marine animals, formerly regarded as molluscs, but now classified as a degenerate branch of Chordata, comprising the ascidians and allied forms, characterized by a pouch-like body enclosed in a tough leathery integument, with a single or double aperture through which the water enters and leaves the pharynx.") (OED)  
+

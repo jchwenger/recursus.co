@@ -15,3 +15,7 @@ permalink: /squares/bomb-liar-ulna-eyed/
 &nbsp;
 
 Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 
+
+Ulna: n. "The large inner bone of the fore-arm, extending from the elbow to the wrist." (OED)  
+Brad: n. "A thin flattish nail of the same thickness throughout, but tapering in width, having a small ‘lip’ on one edge, instead of a head." also slang "Brads, halfpence; also money in general.", v. "trans. To fasten with brads." and adj. "Roasted, broiled. Obsolete" (OED)  
+Bale: n. "Evil, especially considered in its active operation, as destroying, blasting, injuring, hurting, paining, tormenting; fatal, dire, or malign quality or influence; woe, mischief, harm, injury; in earlier use often = death, infliction of death." and "Mental suffering; misery, sorrow, grief." as well as "gen. A great consuming fire, a conflagration; a blazing pile, a bonfire. Obsolete." (OED)  

@@ -15,3 +15,6 @@ permalink: /squares/boys-riot-ally-dyke/
 &nbsp;
 
 Composed with words from [litscape](https://www.litscape.com/). Including diagonals. 
+
+Stye: sty. Also int. "Chiefly in to say (or know) neither buff nor stye: see buff int. b." (OED)  
+Brad: n. "A thin flattish nail of the same thickness throughout, but tapering in width, having a small ‘lip’ on one edge, instead of a head." also slang "Brads, halfpence; also money in general.", v. "trans. To fasten with brads." and adj. "Roasted, broiled. Obsolete" (OED)  
