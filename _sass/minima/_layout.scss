@@ -257,13 +257,26 @@
 
 .home-div {
   min-height: 100vh;
+  @include relative-font-size(1.5);
+}
+
+.home-link {
+  display: block;
+  text-align: center;
+  @include relative-font-size(2.2);
 }
 
 .home-list {
+/*
+  display: inline-block;
+  *display: inline;
+*/
   list-style: none;
+/*
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
+*/
 }
 
 /* Youtube tweaks */
