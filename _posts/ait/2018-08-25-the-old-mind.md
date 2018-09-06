@@ -14,4 +14,4 @@ permalink: /ait/the-old-mind/
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+Second batch from [AIT](https://github.com/jchwenger/AIT).

@@ -14,4 +14,4 @@ permalink: /ait/the-conclusion/
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+Second batch from [AIT](https://github.com/jchwenger/AIT).

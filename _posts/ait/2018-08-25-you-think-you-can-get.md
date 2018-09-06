@@ -14,4 +14,4 @@ permalink: /ait/you-think-you-can-get/
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+Second batch from [AIT](https://github.com/jchwenger/AIT).

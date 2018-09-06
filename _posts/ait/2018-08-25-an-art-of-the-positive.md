@@ -14,4 +14,4 @@ permalink: /ait/an-art-of-the-positive/
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+Second batch from [AIT](https://github.com/jchwenger/AIT).
