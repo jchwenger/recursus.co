@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Exhibition
+title: The exhibition
 category: lore
 permalink: /lore/exhibition/
 
 aston:
- - image_path: /assets/show/Aston_0811_horiz.jpg
-   title: Aston_0811_horiz
  - image_path: /assets/show/Aston_0815_horiz.jpg
    title: Aston_0815_horiz
  - image_path: /assets/show/Aston_0816_vert.jpg
@@ -107,11 +105,17 @@ tech:
    title: wirestop
 
 ---
+<div class="photo-gallery-whole">
+  <a href="/assets/show/Aston_0811_horiz.jpg" data-lightbox="Aston">
+    <img src="/assets/show/Aston_0811_horiz.jpg">
+  </a>
+</div>
+<hr>
 
 <link href="/assets/lightbox.min.css" rel="stylesheet">
 
-  <div class="desc"><h4>The show</h4></div>
   <div class="photo-gallery-container">
+  <div class="desc"><h4>The show</h4></div>
   <div id="masonry0">
   {% for image in page.aston %}
   {% if image.image_path contains 'vert' %}
@@ -130,7 +134,7 @@ tech:
   {% endfor %}
   </div>
   &nbsp;
-  <p align="right">Many thanks to Rebecca Aston for these pictures</p>
+  <p align="right"><i>photographs: Rebecca Aston</i></p>
   </div>
 
   <div class="photo-gallery-container">
