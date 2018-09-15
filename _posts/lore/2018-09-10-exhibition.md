@@ -4,6 +4,29 @@ title: Exhibition
 category: lore
 permalink: /lore/exhibition/
 
+aston:
+ - image_path: /assets/show/Aston_0811_horiz.jpg
+   title: Aston_0811_horiz
+ - image_path: /assets/show/Aston_0815_horiz.jpg
+   title: Aston_0815_horiz
+ - image_path: /assets/show/Aston_0816_vert.jpg
+   title: Aston_0816_vert
+ - image_path: /assets/show/Aston_0817_horiz.jpg
+   title: Aston_0817_horiz
+ - image_path: /assets/show/Aston_0818_horiz.jpg
+   title: Aston_0818_horiz
+ - image_path: /assets/show/Aston_0819_horiz.jpg
+   title: Aston_0819_horiz
+ - image_path: /assets/show/Aston_0820_vert.jpg
+   title: Aston_0820_vert
+ - image_path: /assets/show/Aston_0821_vert.jpg
+   title: Aston_0821_vert
+ - image_path: /assets/show/Aston_0822_horiz.jpg
+   title: Aston_0822_horiz
+ - image_path: /assets/show/Aston_0823_vert.jpg
+   title: Aston_0823_vert
+ - image_path: /assets/show/Aston_0824_vert.jpg
+   title: Aston_0824_vert
 
 show:
  - image_path: /assets/show/full1_horiz.jpg
@@ -89,6 +112,30 @@ tech:
 
   <div class="desc"><h4>The show</h4></div>
   <div class="photo-gallery-container">
+  <div id="masonry0">
+  {% for image in page.aston %}
+  {% if image.image_path contains 'vert' %}
+  <div class="photo-gallery">
+   <a href="{{ image.image_path }}" data-lightbox="Aston">
+    <img src="{{ image.image_path }}">
+   </a>
+  </div>
+  {% elsif image.image_path contains 'horiz' %}
+  <div class="photo-gallery-wide">
+   <a href="{{ image.image_path }}" data-lightbox="Aston">
+    <img src="{{ image.image_path }}">
+   </a>
+  </div>
+  {% endif %}
+  {% endfor %}
+  </div>
+  &nbsp;
+  <p align="right">Many thanks to Rebecca Aston for these pictures</p>
+  </div>
+
+  <div class="photo-gallery-container">
+  <hr>
+  <div class="desc"><h4>The show II</h4></div>
   <div id="masonry1">
   {% for image in page.show %}
   {% if image.image_path contains 'vert' %}
@@ -225,6 +272,16 @@ tech:
 
 <!-- Masonry */ -->
 <script>
+  $(function() {
+    var $container = $('#masonry0');
+    $container.imagesLoaded( function() {
+      $container.masonry({
+        itemSelector: ['.photo-gallery', '.photo-gallery-wide'],
+        columnWidth: '.photo-gallery'
+      });
+    });
+  });
+
   $(function() {
     var $container = $('#masonry1');
     $container.imagesLoaded( function() {
