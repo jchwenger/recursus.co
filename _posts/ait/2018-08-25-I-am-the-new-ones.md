@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am the new ones (AIT)
+title: I am the new ones
 date: 2018-08-25 20:05:47
 category: ait
 permalink: /ait/i-am-the-new-ones/ 

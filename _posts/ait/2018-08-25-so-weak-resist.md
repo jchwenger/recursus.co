@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So weak resist (AIT)
+title: So weak resist
 date: 2018-08-25 18:00:47
 category: ait
 permalink: /ait/so-weak-resist/ 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lack impotence my entire life (AIT)
+title: Lack impotence my entire life
 date: 2018-08-25 20:15:47
 category: ait
 permalink: /ait/lack-impotence/ 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An art of the positive (AIT)
+title: An art of the positive
 date: 2018-08-25 19:10:47
 category: ait
 permalink: /ait/an-art-of-the-positive/ 

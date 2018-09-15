@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I can feel it (AIT)
+title: I can feel it
 date: 2018-08-25 18:30:47
 category: ait
 permalink: /ait/i-can-feel-it/ 

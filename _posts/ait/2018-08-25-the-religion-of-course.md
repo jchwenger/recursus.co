@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The religion of course (AIT)
+title: The religion of course
 date: 2018-08-25 18:55:47
 category: ait
 permalink: /ait/the-religion-of-course/ 

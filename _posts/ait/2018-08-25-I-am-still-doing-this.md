@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am still doing this (AIT)
+title: I am still doing this
 date: 2018-08-25 20:20:47
 category: ait
 permalink: /ait/i-am-still-doing-this/ 

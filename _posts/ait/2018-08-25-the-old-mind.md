@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The old mind (AIT)
+title: The old mind
 date: 2018-08-25 18:10:47
 category: ait
 permalink: /ait/the-old-mind/ 

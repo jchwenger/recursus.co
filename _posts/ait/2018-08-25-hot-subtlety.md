@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The hot-&-subtlety (AIT)
+title: The hot-&-subtlety
 date: 2018-08-25 19:50:47
 category: ait
 permalink: /ait/hot-subtlety/ 

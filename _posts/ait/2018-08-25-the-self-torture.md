@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The self-torture (AIT)
+title: The self-torture
 date: 2018-08-25 20:10:47
 category: ait
 permalink: /ait/the-self-torture/ 

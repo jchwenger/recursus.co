@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freeliven die despatially (AIT)
+title: Freeliven die despatially
 date: 2018-08-25 19:20:47
 category: ait
 permalink: /ait/freeliven/ 

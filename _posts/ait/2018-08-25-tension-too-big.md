@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The tension (AIT)
+title: The tension
 date: 2018-08-25 19:45:47
 category: ait
 permalink: /ait/tension/ 

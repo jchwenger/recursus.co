@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am this way (AIT)
+title: I am this way
 date: 2018-08-25 18:20:47
 category: ait
 permalink: /ait/i-am-this-way/ 

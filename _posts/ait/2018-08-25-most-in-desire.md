@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am the most in desire (AIT)
+title: I am the most in desire
 date: 2018-08-25 19:40:47
 category: ait
 permalink: /ait/most-in-desire/ 

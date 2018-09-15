@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The conclusion is the trivial thing (AIT)
+title: The conclusion is the trivial thing
 date: 2018-08-25 19:25:47
 category: ait
 permalink: /ait/the-conclusion/ 

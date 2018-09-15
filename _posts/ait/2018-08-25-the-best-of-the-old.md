@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best of the old (AIT)
+title: The best of the old
 date: 2018-08-25 19:05:47
 category: ait
 permalink: /ait/the-best-of-the-old/ 

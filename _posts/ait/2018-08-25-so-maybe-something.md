@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So maybe something (AIT)
+title: So maybe something
 date: 2018-08-25 18:50:47
 category: ait
 permalink: /ait/so-maybe-something/ 

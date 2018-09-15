@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The fucking half-ugly thing (AIT)
+title: The fucking half-ugly thing
 date: 2018-08-25 19:20:47
 category: ait
 permalink: /ait/the-fucking-half-ugly-thing/ 
