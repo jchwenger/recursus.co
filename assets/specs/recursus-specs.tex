@@ -1,0 +1,134 @@
+\documentclass[twocolumn]{memoir}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc} 
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{colorlinks,urlcolor=blue}
+\renewcommand{\abstractname}{\vspace{-\baselineskip}}
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+\setlength\parindent{0pt}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\title{{\Huge Recursus}  \\ {\large \href{http://recursus.co/}{www.recursus.co}} \\ {\large Technical Specifications}}
+\date{{\normalsize 2018}}
+\author{Jérémie C. Wenger}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+For the MA/MFA End of Year Show
+`\href{http://echosystems.xyz/}{Echosytems}', prints were ordered at
+\href{https://www.digitalarte.co.uk/}{digitalarte} in Greenwich with the
+following dimensions: 
+\\
+
+WordSquares:
+
+\begin{itemize}
+\tightlist
+\item
+  21 x 21 cm
+\end{itemize}
+
+Subwords:
+
+\begin{itemize}
+\tightlist
+\item
+  short: 29.7 x 8.91 cm
+\item
+  long: 44.55 x 8.91 cm (`microspectrophotometrical(ly)')
+\end{itemize}
+
+AIT:
+
+\begin{itemize}
+\tightlist
+\item
+  `I am the most in': 59.4 x 16.5 cm
+\item
+  `I am the new ones': 42 x 75.6 cm
+\item
+  `Insane not enough to expect me': 59.4 x 16.5 cm
+\item
+  `So weak resist resist': 29.7 x 29.7
+\item
+  `The self-torture is the strange thing': 59.4 x 33
+\end{itemize}
+
+
+The Paper used: `Hahnemühle Photo Rag 308gsm'
+
+~
+
+\fancybreak{§}
+
+~
+
+Total cost (with 10\% student discount): £198.72
+
+\vfill\null
+\newpage
+
+The wire frame \& other tools were bought at \href{http://www.flints.co.uk/content/}{Flints}:
+
+\begin{itemize}
+\tightlist
+\item
+  100 m Lifting-3mm 6x19 Galv Wire Rope
+\item
+  100 x 3-4 mm Wire Rope Grips Din741
+\item
+  7mm Wera Kraftform 395 Nutspinner 
+\end{itemize}
+
+~
+
+\fancybreak{§}
+
+~
+
+Total cost: £60.42
+
+\end{document}
