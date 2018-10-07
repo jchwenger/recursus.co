@@ -1,13 +1,20 @@
-// @import url('https://fonts.googleapis.com/css?family=EB+Garamond:500, 500i');
+@import url(//db.onlinewebfonts.Xcom/c/a876e0516363c84583fa5c0551f759f1?family=EB+Garamond+08);
+// @import url('https://fontlibrary.org/face/eb-garamond');
+// @import url('https://fonts.googleapis.com/css?family=EB+Garamond: 500, 500i');
 @charset "utf-8";
 
 // Define defaults for each variable.
 @font-face {
     font-family: "EB Garamond";
+}
+
+@font-face {
+    font-family: "EB Garamond Bckup";
     src:url(ebgaramond/EBGaramond08-Regular.ttf);
 }
+
 // $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$base-font-family: "EB Garamond", Helvetica, Arial, serif;
+$base-font-family: "EB Garamond",  "EB Garamond Bckup", Helvetica, Arial, serif;
 $base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
