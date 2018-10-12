@@ -8,7 +8,7 @@ Recursus, Latin: a “return”, a “retreat”, but also “the power to bring
 
 This site contains the thoughts and meanders that arose in the process of elaboration of these pieces, during the Summer term of 2018 of the <a href="https://www.gold.ac.uk/pg/ma-computational-arts/">MA of Computational Arts</a> at Goldsmiths College, London. 
 
-Prints were manufactured by [digitalarte](https://www.digitalarte.co.uk/) in Greenwich. Technical specifications and costs can be found [here](/assets/show/specs/recursus-specs.pdf).  
+Prints were manufactured by [digitalarte](https://www.digitalarte.co.uk/) in Greenwich. Technical specifications and costs can be found [here](/assets/specs/recursus-specs.pdf).  
 
 ---
 
