@@ -5,7 +5,7 @@ category: lore
 permalink: /lore/datashader/
 ---
 
-Whilst working on [visualisations for my WordSquares project](https://github.com/jchwenger/WordSquaresAI), I encountered problems due to the size of the dataset I wanted to plot. Digging into the [Bokeh library](https://bokeh.pydata.org/en/latest/) I found out about the [Datashader library](http://datashader.org/) that specialises in large datasets (e.g. billions of points). 
+Whilst working on visualisations for my WordSquares project, I encountered problems due to the size of the dataset I wanted to plot. Digging into the [Bokeh library](https://bokeh.pydata.org/en/latest/) I found out about the [Datashader library](http://datashader.org/) that specialises in large datasets (e.g. billions of points). 
 
 <div class="video-container">
 <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/6m3CFbKmK_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

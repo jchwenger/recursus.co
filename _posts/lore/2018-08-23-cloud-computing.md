@@ -7,7 +7,7 @@ permalink: /lore/cloud-computing/
 
 For the first time in years, I feel the computational resources I have access to are not sufficient to achieve my goals. 
 
-I am still planning on completing this third part, '[AIT](https://github.com/jchwenger/ait)', neurally to generate prose texts, and it does feel that the quality of the results, especially the amount of 'human' editing that will be required, will depend on the computational power I will be able to access, more specifically: if I will be able to use GPUs to hone my lstm model.
+I am still planning on completing this third part, 'AIT', neurally to generate prose texts, and it does feel that the quality of the results, especially the amount of 'human' editing that will be required, will depend on the computational power I will be able to access, more specifically: if I will be able to use GPUs to hone my lstm model.
 
 So far I looked into Google Colaboratory, Google Cloud Computing, and Amazon AWS (I also know of [FloydHub](https://www.floydhub.com/) and [Heroku](https://www.heroku.com/), but apart from [this article](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39) my research has not been extensive).
 

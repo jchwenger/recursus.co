@@ -7,7 +7,7 @@ permalink: /lore/wordsquares-mining/
 
 This is proving to be more difficult than expected.
 
-Slightly haunted by [My previous attempt](https://github.com/jchwenger/wordsquaresai) using machine learning to mine wordsquares (using the [t-SNE](https://distill.pub/2016/misread-tsne/) algorithm). That hadn't yielded the results I was hoping for, and for that reason (and others, less respectable ones) I left that aside, going for randomness and persistance instead.
+Slightly haunted by My previous attempt using machine learning to mine wordsquares (using the [t-SNE](https://distill.pub/2016/misread-tsne/) algorithm). That hadn't yielded the results I was hoping for, and for that reason (and others, less respectable ones) I left that aside, going for randomness and persistance instead.
 
 Where am I now? I am searching for squares that have *literary* relevance (beauty, intricacy, force, subtlety, etc.). I work like a 'normal' writer, except for the fact that the texts are already written in front of me. As I mentioned already, the database act as an 'external imagination': in a more regular setting, I would look for the appropriate formulations, images, etc., and 'pick' the one I will present as the final text. In this case, I also pick, except the possibilities are 'physically' set, out there (as, you might argue, they are as well, except unwritten, in the cloud of virtual texts, in the former case).
  

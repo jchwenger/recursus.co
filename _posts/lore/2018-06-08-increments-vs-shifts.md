@@ -10,9 +10,9 @@ After our collective session on Wednesday, and Saskia's remarks about incrementa
 This has to change.
 
 The danger is too great that I end up lost in the depth (!) of learning, especially if that involves heavy-duty mathematics and slightly unwieldy coding tools (TensorFlow is not particularly easy to access). The solution would be to redirect my attempts toward smaller chunks of learning, and more specifically make time for the less 'cutting edge' parts of my project: go back to previous works, which I submitted but feel I could expand on and/or perfect, and simply do that. The projects I'm thinking of are mainly those three:
-- [WordSquares](https://github.com/jchwenger/WordSquaresAI) (with tasks such as porting the [database builder](https://github.com/jchwenger/ofxWordSquares) to Python, improve the whole algorithm using a Trie, find ways of getting the Word2Vec model to work, manage the Bokeh library for the visualisation of datasets even with large ones);
-- [WordLaces](https://github.com/jchwenger/Wordlaces) (generalise database building and the search process, apply machine learning and Bokeh visualisation as above);
-- [SubWords](://github.com/jchwenger/Subwords) (port to Python, think of various forms and constraints, then apply the same database building & machine learning pipeline again).
+- WordSquares (with tasks such as porting the database builder to Python, improve the whole algorithm using a Trie, find ways of getting the Word2Vec model to work, manage the Bokeh library for the visualisation of datasets even with large ones);
+- WordLaces (generalise database building and the search process, apply machine learning and Bokeh visualisation as above);
+- SubWords (port to Python, think of various forms and constraints, then apply the same database building & machine learning pipeline again).
 
 As mentioned in another post, it would be interesting to get into the [RiTa Library](http://rednoise.org/rita/) and produce micro-projects on a regular basis.
 

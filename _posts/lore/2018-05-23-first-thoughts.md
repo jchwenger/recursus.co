@@ -16,9 +16,9 @@ The movement pursued is twofold:
 - mining (the identification and selection of texts of aesthetic relevance).
 
 This project would expand and coalesce three previous projects:
-- my ongoing exploration of [wordsquares](https://github.com/jchwenger/WordSquaresAI);
-- a similar project called [wordlaces](https://github.com/jchwenger/Wordlaces);
-- an earlier concept that could be upgraded with my current advances, [subwords](https://github.com/jchwenger/Subwords).
+- my ongoing exploration of wordsquares;
+- a similar project called wordlaces;
+- an earlier concept that could be upgraded with my current advances, subwords.
 
 Courses:
 Machine Learning:
