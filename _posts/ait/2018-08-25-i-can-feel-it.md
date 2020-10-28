@@ -14,4 +14,4 @@ permalink: /ait/i-can-feel-it/
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+First batch from AIT.

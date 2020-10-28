@@ -18,4 +18,4 @@ I am the new ones. It is a problem of the positive and of pieces of the contrary
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+First batch from AIT.

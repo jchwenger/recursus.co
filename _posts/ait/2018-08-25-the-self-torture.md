@@ -19,4 +19,4 @@ The self-torture is the strange thing and yet the story of strong of this world.
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+First batch from AIT.

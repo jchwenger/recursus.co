@@ -14,4 +14,4 @@ permalink: /ait/so-weak-resist/
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+First batch from AIT.

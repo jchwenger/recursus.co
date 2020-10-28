@@ -18,4 +18,4 @@ Not the problem not at all the worst thing now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 &nbsp;
 
 
-Second batch from [AIT](https://github.com/jchwenger/AIT).
+Second batch from AIT.

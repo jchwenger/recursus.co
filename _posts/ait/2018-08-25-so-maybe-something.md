@@ -15,5 +15,5 @@ permalink: /ait/so-maybe-something/
 &nbsp;
 
 
-Second batch from [AIT](https://github.com/jchwenger/AIT).
+Second batch from AIT.
 

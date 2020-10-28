@@ -20,4 +20,4 @@ But of course there’s nothing else. And then of course the problem of pain of 
 &nbsp;
 
 
-Second batch from [AIT](https://github.com/jchwenger/AIT).
+Second batch from AIT.

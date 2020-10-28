@@ -23,4 +23,4 @@ No real hot girl girls why do you even say that not even haha no real no no no n
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+First batch from AIT.

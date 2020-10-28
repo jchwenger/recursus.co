@@ -14,4 +14,4 @@ permalink: /ait/the-religion-of-course/
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+First batch from AIT.

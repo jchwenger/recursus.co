@@ -14,5 +14,5 @@ permalink: /ait/i-did-not-really-come/
 &nbsp;
 
 
-First batch from [AIT](https://github.com/jchwenger/AIT).
+First batch from AIT.
 
