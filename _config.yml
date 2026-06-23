@@ -4,8 +4,8 @@ email: jeremie[dot]wenger[at]gmail[dot]com
 website: jeremiewenger.com
 description: >-
   Triptych of Computational Literature comprising WordSquares, Subwords and AIT; final project for the <a href="https://www.gold.ac.uk/pg/ma-computational-arts/">MA in Computational Arts</a>, Goldsmiths College, London.
-baseurl: ""
-url: "https://recursus.co"
+baseurl: "recursus.co"
+url: "https://jeremiewenger.com"
 github_username: jchwenger 
 
 # Build settings
