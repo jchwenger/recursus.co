@@ -105,9 +105,10 @@ tech:
    title: wirestop
 
 ---
+
 <div class="photo-gallery-whole">
-  <a href="/assets/show/Aston_0811_horiz.jpg" data-lightbox="Aston">
-    <img src="/assets/show/Aston_0811_horiz.jpg">
+  <a href="{{ /assets/show/Aston_0811_horiz.jpg | absolute_url }}" data-lightbox="Aston">
+    <img src="{{ /assets/show/Aston_0811_horiz.jpg | absolute_url }}">
   </a>
 </div>
 <hr>
