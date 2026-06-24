@@ -107,8 +107,8 @@ tech:
 ---
 
 <div class="photo-gallery-whole">
-  <a href="{{ /assets/show/Aston_0811_horiz.jpg | absolute_url }}" data-lightbox="Aston">
-    <img src="{{ /assets/show/Aston_0811_horiz.jpg | absolute_url }}">
+  <a href="https://jeremiewenger.com/recursus.co/assets/show/Aston_0811_horiz.jpg" data-lightbox="Aston">
+    <img src="https://jeremiewenger.com/recursus.co/assets/show/Aston_0811_horiz.jpg">
   </a>
 </div>
 <hr>
@@ -127,8 +127,8 @@ tech:
   </div>
   {% elsif image.image_path contains 'horiz' %}
   <div class="photo-gallery-wide">
-   <a href="{{ image.image_path }}" data-lightbox="Aston">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Aston">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% endif %}
@@ -145,14 +145,14 @@ tech:
   {% for image in page.show %}
   {% if image.image_path contains 'vert' %}
   <div class="photo-gallery">
-   <a href="{{ image.image_path }}" data-lightbox="Show">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Show">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% elsif image.image_path contains 'horiz' %}
   <div class="photo-gallery-wide">
-   <a href="{{ image.image_path }}" data-lightbox="Show">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Show">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% endif %}
@@ -167,14 +167,14 @@ tech:
   {% for image in page.maps %}
   {% if image.image_path contains 'vert' %}
   <div class="photo-gallery">
-   <a href="{{ image.image_path }}" data-lightbox="Maps">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Maps">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% elsif image.image_path contains 'horiz' %}
   <div class="photo-gallery-wide">
-   <a href="{{ image.image_path }}" data-lightbox="Maps">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Maps">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% endif %}
@@ -195,8 +195,8 @@ tech:
   </div>
   {% elsif image.image_path contains 'horiz' %}
   <div class="photo-gallery-wide">
-   <a href="{{ image.image_path }}" data-lightbox="Preparations">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Preparations">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% endif %}
@@ -211,14 +211,14 @@ tech:
   {% for image in page.configuration %}
   {% if image.image_path contains 'vert' %}
   <div class="photo-gallery">
-   <a href="{{ image.image_path }}" data-lightbox="Layout">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Layout">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% elsif image.image_path contains 'horiz' %}
   <div class="photo-gallery-wide">
-   <a href="{{ image.image_path }}" data-lightbox="Layout">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Layout">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% endif %}
@@ -233,14 +233,14 @@ tech:
   {% for image in page.hurdles %}
   {% if image.image_path contains 'vert' %}
   <div class="photo-gallery">
-   <a href="{{ image.image_path }}" data-lightbox="Hurdles">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Hurdles">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% elsif image.image_path contains 'horiz' %}
   <div class="photo-gallery-wide">
-   <a href="{{ image.image_path }}" data-lightbox="Hurdles">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Hurdles">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% endif %}
@@ -254,8 +254,8 @@ tech:
   <div id="masonry6">
   {% for image in page.tech %}
   <div class="photo-gallery-last">
-   <a href="{{ image.image_path }}" data-lightbox="Details">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Details">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% endfor %}
