@@ -121,8 +121,8 @@ tech:
   {% for image in page.aston %}
   {% if image.image_path contains 'vert' %}
   <div class="photo-gallery">
-   <a href="{{ image.image_path }}" data-lightbox="Aston">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Aston">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% elsif image.image_path contains 'horiz' %}
@@ -189,8 +189,8 @@ tech:
   {% for image in page.preparations %}
   {% if image.image_path contains 'vert' %}
   <div class="photo-gallery">
-   <a href="{{ image.image_path }}" data-lightbox="Preparations">
-    <img src="{{ image.image_path }}">
+   <a href="https://jeremiewenger.com/recursus.co{{ image.image_path }}" data-lightbox="Preparations">
+    <img src="https://jeremiewenger.com/recursus.co{{ image.image_path }}">
    </a>
   </div>
   {% elsif image.image_path contains 'horiz' %}
