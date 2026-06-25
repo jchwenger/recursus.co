@@ -113,7 +113,7 @@ tech:
 </div>
 <hr>
 
-<link href="/assets/lightbox.min.css" rel="stylesheet">
+<link href="https://jeremiewenger.com/recursus.co/assets/lightbox.min.css" rel="stylesheet">
 
   <div class="photo-gallery-container">
   <div class="desc"><h4>The show</h4></div>
@@ -262,10 +262,10 @@ tech:
   </div>
   </div>
   
-<script src="/assets/js/jquery-3.3.1.min.js"></script>
-<script src="/assets/js/imagesloaded.pkgd.min.js"></script>
-<script src="/assets/js/masonry.pkgd.min.js"></script>
-<script src="/assets/js/lightbox.min.js"></script>
+<script src="https://jeremiewenger.com/recursus.co/assets/js/jquery-3.3.1.min.js"></script>
+<script src="https://jeremiewenger.com/recursus.co/assets/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://jeremiewenger.com/recursus.co/assets/js/masonry.pkgd.min.js"></script>
+<script src="https://jeremiewenger.com/recursus.co/assets/js/lightbox.min.js"></script>
 
 <!-- Lightbox options -->
 <script>
